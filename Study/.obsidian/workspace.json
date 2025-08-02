@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c2bf5b95f44eb00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ebde97b4041cb0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d60fb9264b29b66",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77103e9839501f57",
+    "type": "split",
+    "children": [
+      {
+        "id": "a302975aabb33b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60eaba684454c609",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "d2ced6ee4111cd2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "cb6808d50427494c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d9d41015711ae3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "db1fea839050a932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f62c266636d55c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "03a9951d5b26e4be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d6f618585f6fd0b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2578ab05c37e83c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "7d60fb9264b29b66",
+  "lastOpenFiles": [
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/9. LoadBalancing.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/8. VPC.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/7. オペレーションスイート.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/6. DeploymentManager.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/5. gcloudコマンド.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/4. CloudBilling.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/3. CloudIAM.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/22. クラウド関連の用語集.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/21. Spanner.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/20. Bigtable.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/2. ComputeEngine.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/19. PubSub.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/18. CloudIdentity.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/17. KubernetesEngine.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/16. CloudRun.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/15. CloudFunctions.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/14. AppEngine.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/13. BigQuery.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/12. DatastoreとFirestore.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/12. AppEngine.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/11. CloudSQL.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/10. CloudStorage.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める/1. イントロダクション.md",
+    "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める",
+    "Welcome.md"
+  ]
+}
